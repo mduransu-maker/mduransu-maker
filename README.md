@@ -38,4 +38,4 @@ My contribution adds an interactive demo workspace, analytics improvements and t
 
 A calm personal dashboard: six life areas, one quarterly focus, up to three daily actions. The real hosted instance stays private; the repository uses neutral example data.
 
-[Explore the project ↗](https://github.com/mduransu-maker/fundament)
+**[Try the sample demo ↗](https://mduransu-maker.github.io/fundament/)** · [Code](https://github.com/mduransu-maker/fundament)
