@@ -30,7 +30,7 @@ Explore layouts in the browser, arrange components and export a PDF. A concept p
 
 My contribution adds an interactive demo workspace, analytics improvements and tests to an existing maintenance-management application. **[Contribution merged in PR #1 ↗](https://github.com/alem187/SmartMaintainer/pull/1)**
 
-[Static demo build proposed in PR #2](https://github.com/alem187/SmartMaintainer/pull/2) · Public deployment awaits the project owner's Pages setup.
+**[Try the demo ↗](https://mduransu-maker.github.io/smartmaintainer-demo/)** · [Demo source](https://github.com/mduransu-maker/smartmaintainer-demo) · [Pages build for the original project](https://github.com/alem187/SmartMaintainer/pull/2)
 
 ---
 
