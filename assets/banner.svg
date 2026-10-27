@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">Duran — practical ideas, working tools</title>
+<desc id="desc">A dark green project portfolio banner with abstract interface shapes.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#102C29"/><stop offset="1" stop-color="#071C1A"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#C8F7CD" stroke-opacity=".045"/></pattern></defs>
+<rect width="1280" height="360" rx="24" fill="url(#bg)"/><rect width="1280" height="360" rx="24" fill="url(#grid)"/>
+<path d="M780 0V360" stroke="#C8F7CD" stroke-opacity=".13"/>
+<text x="58" y="62" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="4" fill="#B1C7BA">IDEAS INTO INTERFACES</text>
+<text x="54" y="167" font-family="Arial,Helvetica,sans-serif" font-size="92" font-weight="700" letter-spacing="-4" fill="#F3F4E9">Duran<tspan fill="#C6F28B">.</tspan></text>
+<text x="58" y="221" font-family="Arial,Helvetica,sans-serif" font-size="28" fill="#D9E7DC">Practical ideas. Working tools.</text>
+<text x="58" y="302" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#A2BAAD">WEB TOOLS <tspan dx="24" fill="#C6F28B">/</tspan><tspan dx="24">DIGITAL WORKFLOWS</tspan><tspan dx="24" fill="#C6F28B">/</tspan><tspan dx="24">OPEN SOURCE</tspan></text>
+<g transform="translate(837 60)"><rect width="342" height="238" rx="14" fill="#1A3932" stroke="#76937E" stroke-opacity=".4"/><path d="M0 37H342" stroke="#76937E" stroke-opacity=".3"/><circle cx="19" cy="19" r="4" fill="#C6F28B"/><circle cx="34" cy="19" r="4" fill="#799B84"/><circle cx="49" cy="19" r="4" fill="#456A54"/>
+<rect x="24" y="62" width="150" height="148" rx="8" fill="#0D2721"/><path d="M44 180V88H151V135H111V180Z" fill="none" stroke="#C6F28B" stroke-width="3"/><path d="M44 116H89M112 88V110M111 154H151" stroke="#749F74" stroke-width="2"/><rect x="195" y="62" width="122" height="68" rx="7" fill="#284B3D"/><path d="M209 113L228 98L246 104L267 84L298 79" fill="none" stroke="#C6F28B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="195" y="147" width="122" height="63" rx="7" fill="#284B3D"/><circle cx="212" cy="165" r="4" fill="#C6F28B"/><path d="M226 165H294M226 185H276" stroke="#8FAF94" stroke-width="5" stroke-linecap="round"/></g>
+</svg>
