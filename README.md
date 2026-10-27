@@ -1,14 +1,20 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="Duran. Practical ideas. Working tools." width="100%">
-</p>
+<p align="center"><img src="assets/banner.svg" alt="Duran. Practical ideas. Working tools." width="100%"></p>
 
-I build practical web tools and contribute improvements to existing projects. A few things you can explore:
+Practical tools for exploring systems, planning spaces and improving digital workflows. **Open a demo and try the work.**
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<table><tr><td width="50%" valign="top">
 
-### 01 · SpaceSketch
+### 01 · FlowLab
+
+<a href="https://mduransu-maker.github.io/flowlab/"><img src="https://raw.githubusercontent.com/mduransu-maker/flowlab/main/docs/desktop.png" alt="FlowLab interactive process studio" width="100%"></a>
+
+See where orders wait. Adjust capacity, automation and processing times, compare the same workload, and export a scenario report.
+
+**[Try the demo ↗](https://mduransu-maker.github.io/flowlab/)** · [Code & model](https://github.com/mduransu-maker/flowlab)
+
+</td><td width="50%" valign="top">
+
+### 02 · SpaceSketch
 
 <a href="https://mduransu-maker.github.io/spacesketch/"><img src="https://raw.githubusercontent.com/mduransu-maker/spacesketch/main/docs/preview.png" alt="SpaceSketch space-planning interface" width="100%"></a>
 
@@ -16,25 +22,20 @@ Explore layouts in the browser, arrange components and export a PDF. A concept p
 
 **[Try the demo ↗](https://mduransu-maker.github.io/spacesketch/)** · [Code](https://github.com/mduransu-maker/spacesketch)
 
-</td>
-<td width="50%" valign="top">
+</td></tr></table>
 
-### 02 · Fundament
+### 03 · SmartMaintainer · contribution
 
-<a href="https://github.com/mduransu-maker/fundament"><img src="https://raw.githubusercontent.com/mduransu-maker/fundament/main/docs/fundament-hero.png" alt="Fundament dashboard with neutral example data" width="100%"></a>
+<img src="https://raw.githubusercontent.com/alem187/SmartMaintainer/main/docs/workspace-desktop.png" alt="SmartMaintainer demo workspace with synthetic tickets" width="100%">
 
-Six life areas, one quarterly focus, up to three daily actions. A personal dashboard, documented with screenshots; hosted instance private.
+My contribution adds an interactive demo workspace, analytics improvements and tests to an existing maintenance-management application. **[Contribution merged in PR #1 ↗](https://github.com/alem187/SmartMaintainer/pull/1)**
 
-**[Explore the project ↗](https://github.com/mduransu-maker/fundament)**
-
-</td>
-</tr>
-</table>
-
-### 03 · SmartMaintainer · open-source contribution
-
-I added a demo workspace, analytics improvements and tests to an existing maintenance-management app. **[Merged in PR #1 ↗](https://github.com/alem187/SmartMaintainer/pull/1)**
+[Static demo build proposed in PR #2](https://github.com/alem187/SmartMaintainer/pull/2) · Public deployment awaits the project owner's Pages setup.
 
 ---
 
-`React` · `TypeScript` · `Requirements` · `Testing` · `Digital workflows`
+### Personal project · Fundament
+
+A calm personal dashboard: six life areas, one quarterly focus, up to three daily actions. The real hosted instance stays private; the repository uses neutral example data.
+
+[Explore the project ↗](https://github.com/mduransu-maker/fundament)
