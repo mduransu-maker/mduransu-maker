@@ -2,17 +2,32 @@
 
 Practical tools for exploring systems, planning spaces and improving digital workflows. **Open a demo and try the work.**
 
-### 01 · Modular Studio
+<table>
+<tr><td width="50%" valign="top">
 
-[![Modular Studio — real-time 3D modular-space configuration](https://raw.githubusercontent.com/mduransu-maker/modular-studio/main/docs/preview.png)](https://mduransu-maker.github.io/modular-studio/)
+### 01 · Relay CRM
 
-Configure a modular space in real 3D: editable facade bays, room modules, finishes and an itemized sample estimate. Save a design, capture a view or take a project sheet with you.
+<a href="https://mduransu-maker.github.io/relay-crm/"><img src="https://raw.githubusercontent.com/mduransu-maker/relay-crm/main/docs/preview.png" alt="Relay CRM project pipeline with fictional data" width="100%"></a>
 
-**[Try the 3D demo ↗](https://mduransu-maker.github.io/modular-studio/)** · [Code & configuration rules](https://github.com/mduransu-maker/modular-studio)
+A white-label CRM for project sales: clarify missing context before a proposal, keep the next promise in view and prepare a handover from recorded facts. Three fictional business workspaces.
+
+**[Try the CRM →](https://mduransu-maker.github.io/relay-crm/)** · [Code & workflow rules](https://github.com/mduransu-maker/relay-crm)
+
+</td><td width="50%" valign="top">
+
+### 02 · Modular Studio
+
+<a href="https://mduransu-maker.github.io/modular-studio/"><img src="https://raw.githubusercontent.com/mduransu-maker/modular-studio/main/docs/preview.png" alt="Modular Studio real-time 3D space configurator" width="100%"></a>
+
+Configure a modular space in real 3D: editable facade bays, room modules, finishes and an itemized sample estimate. Save a design, capture a view or export a project sheet.
+
+**[Try the 3D demo →](https://mduransu-maker.github.io/modular-studio/)** · [Code & configuration rules](https://github.com/mduransu-maker/modular-studio)
+
+</td></tr></table>
 
 <table><tr><td width="50%" valign="top">
 
-### 02 · FlowLab
+### 03 · FlowLab
 
 <a href="https://mduransu-maker.github.io/flowlab/"><img src="https://raw.githubusercontent.com/mduransu-maker/flowlab/main/docs/desktop.png" alt="FlowLab interactive process studio" width="100%"></a>
 
@@ -22,7 +37,7 @@ See where orders wait. Adjust capacity, automation and processing times, compare
 
 </td><td width="50%" valign="top">
 
-### 03 · SpaceSketch
+### 04 · SpaceSketch
 
 <a href="https://mduransu-maker.github.io/spacesketch/"><img src="https://raw.githubusercontent.com/mduransu-maker/spacesketch/main/docs/preview.png" alt="SpaceSketch space-planning interface" width="100%"></a>
 
@@ -32,7 +47,7 @@ Explore layouts in the browser, arrange components and export a PDF. A concept p
 
 </td></tr></table>
 
-### 04 · SmartMaintainer · contribution
+### 05 · SmartMaintainer · contribution
 
 <img src="https://raw.githubusercontent.com/alem187/SmartMaintainer/main/docs/workspace-desktop.png" alt="SmartMaintainer demo workspace with synthetic tickets" width="100%">
 
