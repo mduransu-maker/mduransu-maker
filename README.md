@@ -2,9 +2,17 @@
 
 Practical tools for exploring systems, planning spaces and improving digital workflows. **Open a demo and try the work.**
 
+### 01 · Modular Studio
+
+[![Modular Studio — real-time 3D modular-space configuration](https://raw.githubusercontent.com/mduransu-maker/modular-studio/main/docs/preview.png)](https://mduransu-maker.github.io/modular-studio/)
+
+Configure a modular space in real 3D: editable facade bays, room modules, finishes and an itemized sample estimate. Save a design, capture a view or take a project sheet with you.
+
+**[Try the 3D demo ↗](https://mduransu-maker.github.io/modular-studio/)** · [Code & configuration rules](https://github.com/mduransu-maker/modular-studio)
+
 <table><tr><td width="50%" valign="top">
 
-### 01 · FlowLab
+### 02 · FlowLab
 
 <a href="https://mduransu-maker.github.io/flowlab/"><img src="https://raw.githubusercontent.com/mduransu-maker/flowlab/main/docs/desktop.png" alt="FlowLab interactive process studio" width="100%"></a>
 
@@ -14,7 +22,7 @@ See where orders wait. Adjust capacity, automation and processing times, compare
 
 </td><td width="50%" valign="top">
 
-### 02 · SpaceSketch
+### 03 · SpaceSketch
 
 <a href="https://mduransu-maker.github.io/spacesketch/"><img src="https://raw.githubusercontent.com/mduransu-maker/spacesketch/main/docs/preview.png" alt="SpaceSketch space-planning interface" width="100%"></a>
 
@@ -24,7 +32,7 @@ Explore layouts in the browser, arrange components and export a PDF. A concept p
 
 </td></tr></table>
 
-### 03 · SmartMaintainer · contribution
+### 04 · SmartMaintainer · contribution
 
 <img src="https://raw.githubusercontent.com/alem187/SmartMaintainer/main/docs/workspace-desktop.png" alt="SmartMaintainer demo workspace with synthetic tickets" width="100%">
 
